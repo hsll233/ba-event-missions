@@ -1,0 +1,5 @@
+{
+  "baas_root": "./vendor/baas",
+  "profile": "default_config",
+  "visual_profile": "visual.zh-CN.json"
+}

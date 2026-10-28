@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env/
+.venv/
+output/
+dist/
+*.zip
+*.exe
+*.dll
+*.pyd
+launcher-check.*
+STOP
+settings.local.json

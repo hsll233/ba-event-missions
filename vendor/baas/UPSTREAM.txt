@@ -1,0 +1,5 @@
+Blue Archive Auto Script 1.4.3
+https://github.com/pur1fying/blue_archive_auto_script
+Commit: 4b9fbfac851addf27b5c49a826ebf0e616d8a4ee
+License: GPL-3.0-only; see LICENSE.
+Included: core/module/gui Python sources and static config; binary runtime is distributed only as a Release asset.
